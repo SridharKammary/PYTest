@@ -5,7 +5,6 @@ date=datetime.now()
 print(f"Date with time: {date}")
 onlyDate=datetime.date(date)
 print(f"Only Date : {onlyDate}")
-
 #prepare the date from values
 
 preparedDate=datetime(year=2023,month=12,day=30)
